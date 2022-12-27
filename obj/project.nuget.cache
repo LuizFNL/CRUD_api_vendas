@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3xofmyOUgAhQqsH2TqZYCjSbilqKHedRgs/3jAE0CrK8FboA06T76CHAPtU0g3xdx9H+L5ptoi58l/XvUe6UMg==",
+  "dgSpecHash": "hL56PRGc9KRUjrfXNJq8R/+8Nrj63duzn6vIoR6C5r0Q68uJHdVi3zsSPD1I6kye2qH6CVBFldZljW6hOpb4qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luiz\\Desktop\\Luiz\\Projetos\\tech-test-payment-api\\tech-test-payment-api.csproj",
+  "projectFilePath": "C:\\Users\\Luiz\\Desktop\\Luiz\\Projetos\\MinhaAPI\\CRUD_api_vendas\\tech-test-payment-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luiz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luiz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -51,7 +51,11 @@
     "C:\\Users\\Luiz\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Luiz\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\Luiz\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
-    "C:\\Users\\Luiz\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\Luiz\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Luiz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
   ],
   "logs": []
 }
